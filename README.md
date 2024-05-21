@@ -6,6 +6,6 @@ My name is Mohan Chinta. I am a multi-disciplinary professional with experience 
 
 🔧 Technologies & Tools
              
-Programming Languages: Python, Java, Bash
-Infrastructure: Terraform, Ansible, AWS, GCP
-DevOps: Docker, Kubernetes, Jenkins, Github CI
+Programming Languages: Python, Java, Bash  
+Infrastructure: Terraform, Ansible, AWS, GCP  
+DevOps: Docker, Kubernetes, Jenkins, Github CI  
